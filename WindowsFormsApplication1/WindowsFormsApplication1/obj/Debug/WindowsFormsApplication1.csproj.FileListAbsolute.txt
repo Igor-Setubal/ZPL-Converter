@@ -1,0 +1,14 @@
+C:\Users\st1ferreig\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ticket-add_25321.ico
+C:\Users\st1ferreig\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZPL Converter.exe.config
+C:\Users\st1ferreig\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZPL Converter.exe.manifest
+C:\Users\st1ferreig\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZPL Converter.application
+C:\Users\st1ferreig\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZPL Converter.exe
+C:\Users\st1ferreig\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ZPL Converter.pdb
+C:\Users\st1ferreig\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\st1ferreig\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\st1ferreig\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\st1ferreig\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\st1ferreig\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ZPL Converter.exe.manifest
+C:\Users\st1ferreig\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ZPL Converter.application
+C:\Users\st1ferreig\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ZPL Converter.exe
+C:\Users\st1ferreig\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ZPL Converter.pdb
